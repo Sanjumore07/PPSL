@@ -1,0 +1,6 @@
+ The code snippet starts by including the iostream library for input/output operations.
+ In the main function: Two integer variables, a and b, are initialized with the values 5 and 10 respectively.A temporary variable, temp, is declared to facilitate the swapping process.
+ The code then displays the values of a and b before the swapping operation.
+The swapping process occurs: The value of variable a is stored in the temp variable.The value of b is assigned to a.Finally, the value stored in temp (initially a) is assigned to b, effectively swapping the values of a and b.
+After the swapping process, the code displays the values of a and b to show the result of the swap operation.
+ The program then returns 0, indicating successful execution.
