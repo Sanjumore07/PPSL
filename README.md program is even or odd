@@ -1,0 +1,6 @@
+The program prompts the user to enter a number.
+ It then applies the logic to check if the number is even or odd:
+   - If the number divided by 2 leaves a remainder of 0 (i.e., a % 2 == 0), the program outputs that the given number is even.
+   - If the number divided by 2 leaves a remainder other than 0, the program outputs that the given number is odd.
+The program then displays the result indicating whether the given number is even or odd.
+ Finally, the program returns 0, indicating successful execution.
