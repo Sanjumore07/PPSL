@@ -1,0 +1,7 @@
+The program prompts the user to enter three numbers.
+It then compares the three numbers to find the largest one using a series of if statements:
+   - If 'a' is greater than or equal to both 'b' and 'c', it prints that 'a' is the largest number.
+   - If 'b' is greater than or equal to both 'a' and 'c', it prints that 'b' is the largest number.
+   - If 'c' is greater than or equal to both 'a' and 'b', it prints that 'c' is the largest number.
+The program then displays the largest number among the three input numbers.
+ Finally, the program returns 0, indicating successful execution.
