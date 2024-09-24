@@ -1,0 +1,6 @@
+The provided C++ program demonstrates the use of logical operators.
+It defines two integer variables, a with a value of 6 and b with a value of 4.
+The program then showcases the Logical AND operator (&&) by outputting the result of (a && b).
+Next, it displays the Logical OR operator (||) result for (a || b).
+Finally, it shows the Logical NOT operator (!) result for (!b).
+The program concludes by returning 0, ending its execution.
