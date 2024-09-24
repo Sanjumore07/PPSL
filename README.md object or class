@@ -1,0 +1,7 @@
+The `Student` class has three properties: `name` (string), `rollNumber` (integer), and `age` (integer). It also contains a method `displayInfo()` that prints out the student's name, roll number, and age.
+In the `main()` function:
+   - Two instances of the `Student` class, `s1` and `s2`, are created.
+   - Information (name, roll number, age) is set for `s1` and `s2` using the dot operator.
+   - The information for each student is displayed using the `displayInfo()` method.
+ There is a mistake in the code where the information for `s1` is displayed using `s2.displayInfo()` instead of `s1.displayInfo()`. This results in displaying the information of `s2` twice.
+ Finally, the program returns 0, indicating successful execution.
