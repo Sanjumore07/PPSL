@@ -1,0 +1,6 @@
+ The code begins by including the necessary libraries: iostream for input/output operations and vector for using a dynamic array-like structure.
+ Inside the main function:A vector named `numbers` is initialized with a predefined list of integers.Three variables are declared to store the sum of numbers, the count of even numbers, and the count of odd numbers.
+ The code then iterates through each number in the `numbers` vector using a range-based for loop:It calculates the sum of all numbers.It increments the `evenCount` if the number is even (divisible by 2) and `oddCount` if it's odd.
+ After analyzing all numbers, the code calculates the average by dividing the sum by the total number of elements in the `numbers` vector.
+The program then displays the following results:The list of numbers in the vector.Analysis results including the sum, average, count of even numbers, and count of odd numbers.
+Finally, the program returns 0, indicating successful execution.
