@@ -1,0 +1,8 @@
+ he code snippet starts with including the iostream library, which allows input and output operations in C++.
+The line `using namespace std;` indicates that the code is using the standard namespace for C++.
+Inside the main function, an integer variable `number` is declared to store the user input.
+The program prompts the user to enter a number by displaying the message "Enter a number: " using `cout`.
+The user input is then read and stored in the variable `number` using `cin`.
+The code then checks if the entered number is greater than or equal to 0. If the number is non-negative (greater than or equal to 0), it displays a message indicating that the number is positive.
+If the number is negative (less than 0), the program displays a message indicating that the number is negative.
+Finally, the program returns 0, indicating successful execution of the program.
