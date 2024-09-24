@@ -1,0 +1,6 @@
+ The code includes the iostream and string libraries for input/output operations and string handling, respectively.
+ A class named "Student" is defined, which contains three properties (data members):name: to store the student's name (string type). rollNumber: to store the student's roll number (integer type). age: to store the student's age (integer type).
+ Within the class, there is a member function named displayInfo() that prints out the student's information (name, roll number, and age) to the console.
+ In the main function: Two instances (objects) of the Student class, s1 and s2, are created to represent two students.Properties (name, rollNumber, age) are set for each student using the object's member variables.
+ The program then displays the information for each student by calling the displayInfo() function for each student object.
+ Finally, the program returns 0, indicating successful execution.
