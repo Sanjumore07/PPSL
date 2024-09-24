@@ -1,0 +1,8 @@
+ Concatenation:The original string "Hello" is concatenated with ", World!" to form a new string "Hello, World!".
+Substring:A substring "World" is extracted from the concatenated string starting at position 7 (index 7) with a length of 5 characters.
+Find:The position of the substring "World" is found within the concatenated string "Hello, World!".
+Replace: The substring "World" in the concatenated string is replaced with "C++".
+Insert:The string " beautiful" is inserted into the concatenated string at position 5.
+Erase:The substring " beautiful" is erased from the concatenated string starting at position 5 with a length of 7 characters.
+To Uppercase:The concatenated string is converted to uppercase using the std::toupper function.
+To Lowercase:The concatenated string is converted to lowercase using the std::tolower function.
