@@ -1,0 +1,3 @@
+The program first prompts the user to enter an operator (+, -, *, /) followed by two numbers.
+It then uses a switch statement to determine which operation to perform based on the entered operator:If the operator is '+', it adds the two numbers.If the operator is '-', it subtracts the second number from the first.If the operator is '*', it multiplies the two numbers.If the operator is '/', it divides the first number by the second. If the operator is none of the above, it displays an error message indicating that the operator is incorrect.
+ The program then outputs the result of the corresponding arithmetic operation or the error message if the operator is inFinally, the program returns 0, indicating successful execution.
