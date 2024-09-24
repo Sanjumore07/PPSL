@@ -1,0 +1,7 @@
+ The program includes the necessary header file `<iostream>` for input and output operations and uses the `std` namespace for standard C++ library functions.
+In the `main()` function:
+   - It declares an integer variable `number` to store the user input.
+   - Asks the user to enter an integer using `cout`.
+   - Reads the entered integer from the user using `cin` and stores it in the `number` variable.
+   - Displays the entered integer back to the user using `cout`.
+Finally, the program returns 0, indicating successful execution.
